@@ -3,9 +3,12 @@
 	background-color:#D3D3D3;
 	padding:10px;
 }
-
+nav>ul{
+	display:flex;
+	list-style: none;
+}
 nav>ul>li{
 	display: inline;
 	margin-right:1rem;
-	text-decore:none;
+	
 }
